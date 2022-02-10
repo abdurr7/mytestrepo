@@ -1,7 +1,4 @@
 Basic of Version control
-<<<<<<< HEAD
 Extra text Appended
-=======
 some extra text
->>>>>>> bugs
 Good Evening
